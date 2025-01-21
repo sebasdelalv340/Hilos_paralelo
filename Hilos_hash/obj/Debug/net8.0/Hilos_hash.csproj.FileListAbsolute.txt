@@ -1,0 +1,14 @@
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\bin\Debug\net8.0\Hilos_hash.exe
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\bin\Debug\net8.0\Hilos_hash.deps.json
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\bin\Debug\net8.0\Hilos_hash.runtimeconfig.json
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\bin\Debug\net8.0\Hilos_hash.dll
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\bin\Debug\net8.0\Hilos_hash.pdb
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\Hilos_hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\Hilos_hash.AssemblyInfoInputs.cache
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\Hilos_hash.AssemblyInfo.cs
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\Hilos_hash.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\Hilos_hash.dll
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\refint\Hilos_hash.dll
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\Hilos_hash.pdb
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\Hilos_hash.genruntimeconfig.cache
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_hash\obj\Debug\net8.0\ref\Hilos_hash.dll

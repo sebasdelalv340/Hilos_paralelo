@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hilos_paralelo", "Hilos_paralelo\Hilos_paralelo.csproj", "{28FFE665-CCFD-4873-9DCF-22CB533E32D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hilos_hash", "Hilos_hash\Hilos_hash.csproj", "{7CA7492D-B1CD-4E00-A2BD-0A84F0E2DE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FFE665-CCFD-4873-9DCF-22CB533E32D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FFE665-CCFD-4873-9DCF-22CB533E32D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FFE665-CCFD-4873-9DCF-22CB533E32D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FFE665-CCFD-4873-9DCF-22CB533E32D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA7492D-B1CD-4E00-A2BD-0A84F0E2DE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA7492D-B1CD-4E00-A2BD-0A84F0E2DE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA7492D-B1CD-4E00-A2BD-0A84F0E2DE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA7492D-B1CD-4E00-A2BD-0A84F0E2DE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

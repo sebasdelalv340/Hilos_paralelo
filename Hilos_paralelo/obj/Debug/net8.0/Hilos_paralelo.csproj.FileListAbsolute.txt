@@ -1,0 +1,14 @@
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\bin\Debug\net8.0\Hilos_paralelo.exe
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\bin\Debug\net8.0\Hilos_paralelo.deps.json
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\bin\Debug\net8.0\Hilos_paralelo.runtimeconfig.json
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\bin\Debug\net8.0\Hilos_paralelo.dll
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\bin\Debug\net8.0\Hilos_paralelo.pdb
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\Hilos_paralelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\Hilos_paralelo.AssemblyInfoInputs.cache
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\Hilos_paralelo.AssemblyInfo.cs
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\Hilos_paralelo.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\Hilos_paralelo.dll
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\refint\Hilos_paralelo.dll
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\Hilos_paralelo.pdb
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\Hilos_paralelo.genruntimeconfig.cache
+C:\Users\Sebas\RiderProjects\Hilos_paralelo\Hilos_paralelo\obj\Debug\net8.0\ref\Hilos_paralelo.dll
