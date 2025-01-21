@@ -3,11 +3,11 @@
 public class MiHilo
 {
     private readonly Thread _hilo;
-    private readonly int _hash;
+    private readonly byte[] _hash;
     private readonly string[] _passwords;
     private readonly Wrapper<Action> _finalizar;
 
-    public MiHilo(int hash, string[] passwords, Wrapper<Action> finalizar)
+    public MiHilo(byte[] hash, string[] passwords, Wrapper<Action> finalizar)
     {
         _hash = hash;
         _passwords = passwords;
@@ -24,7 +24,7 @@ public class MiHilo
     {
         foreach (var password in _passwords)
         {
-            var hashNuevo = password.GetHashCode();
+            byte[] hashNuevo = password;
             if (hashNuevo == _hash)
             {
                 _finalizar.Value += () => { Console.WriteLine($"Esta es la contraseña: {password}");};
