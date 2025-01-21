@@ -1,17 +1,33 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Security.Cryptography;
 using System.Text;
 using Hilos_hash;
 
-string password = "!!!!!!1";
-Encoding unicode = Encoding.Unicode;
+string[] passwords = File.ReadAllLines("C:\\Users\\Sebas\\RiderProjects\\Hilos_paralelo\\Hilos_hash\\2151220-passwords.txt");
 
-byte[] unicodeBytes = unicode.GetBytes(password);
+//string password = "!7rus7n01*";
+Random random = new Random();
+string password = passwords[random.Next(passwords.Length)];
 
-string[] passwords = { File.ReadAllText("C:\\Users\\Sebas\\RiderProjects\\Hilos_paralelo\\Hilos_hash\\passwords.txt") };
+using (SHA256 sha256 = SHA256.Create())
+{
+    byte[] bytes = Encoding.UTF8.GetBytes(password);
+    byte[] hashBytes = sha256.ComputeHash(bytes);
+
+    // Convertir el hash a una cadena hexadecimal
+    StringBuilder hashString = new StringBuilder();
+    foreach (byte b in hashBytes)
+    {
+        hashString.Append(b.ToString("x2"));
+    }
+    password = hashString.ToString();
+}
+
+
 
 Wrapper<Action> finalEvent = new Wrapper<Action>(() => { });
 
-MiHilo t1 = new MiHilo(unicodeBytes, passwords, finalEvent);
+MiHilo t1 = new MiHilo(password, passwords, finalEvent);
 
 t1.Start();
