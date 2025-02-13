@@ -1,15 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Diagnostics;
-using System.Net;
-using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 using System.Text;
 using Hilos_hash;
 
-string[] passwords = File.ReadAllLines("C:\\Users\\Sebas\\RiderProjects\\Hilos_paralelo\\Hilos_hash\\2151220-passwords.txt");
+string fichero = "/2151220-passwords.txt";
+string file = AppDomain.CurrentDomain.BaseDirectory + fichero;
 
-string password = "! love you";
+string[] passwords = File.ReadAllLines(file);
+
+Random random = new Random();
+int indiceAleatorio = random.Next(passwords.Length);
+string password = passwords[indiceAleatorio];
 
 static string HashPassword(string password)
 {

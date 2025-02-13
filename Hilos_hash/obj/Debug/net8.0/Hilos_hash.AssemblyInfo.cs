@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hilos_hash")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce7ea8b2568463ca5a78f9a3af00a90b90da35ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e7e15db6d007c9e2746b29ea33184a6c7326e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hilos_hash")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hilos_hash")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
